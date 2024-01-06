@@ -129,7 +129,7 @@ TestBaseModel class:
 
 ## Examples of use
 ```
-vagrantAirBnB_clone$./console.py
+vagrant@ubuntu-focal:~/ALX/AirBnB_clone_v3$./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
