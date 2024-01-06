@@ -19,7 +19,7 @@ The console is the first segment of the AirBnB project at ALX Software Engineer 
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 20.04.6 LTS using python3 (version 3.8.10)
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
