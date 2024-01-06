@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Mohamed KADI - [Github](https://github.com/handskadi)
+
 Fatimazahra El Alaoui - [Github](https://github.com/fatimazahraelalaoui) 
 
 Second part of Airbnb: Joann Vuong
