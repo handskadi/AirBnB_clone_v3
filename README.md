@@ -158,6 +158,6 @@ Mohamed KADI - [Github](https://github.com/handskadi)
 
 Fatimazahra El Alaoui - [Github](https://github.com/fatimazahraelalaoui) 
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Joann Vuong.
 ## License
 Public Domain. No copy write protection. 
